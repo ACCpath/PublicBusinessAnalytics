@@ -12,7 +12,7 @@ Analyze the available public data sources to find insights that help understand 
 
 The company has selected México City as a candidate to search for properties in which to invest with the aim of obtaining profitability through tourist rentals.
 
-To do this, before putting the valuation team to look for opportunities, management has commissioned the preparation of a [discovery analysis](real_estate_market_airbnb_mexicocity_BA.ipynb) that allows identifying strategies or lines of work that help direct the actions of the valuation team.
+To do this, before putting the valuation team to look for opportunities, management has commissioned the preparation of a [discovery analysis](https://github.com/ACCpath/BusinessAnalytics/blob/main/RealEstateMarketAirbnb/real_estate_market_airbnb_mexicocity_BA.ipynb) that allows identifying strategies or lines of work that help direct the actions of the valuation team.
 
 ### **Executive conclusions**
 
