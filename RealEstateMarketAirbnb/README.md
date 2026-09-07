@@ -30,6 +30,7 @@ To do this, before putting the valuation team to look for opportunities, managem
 
 * Look for opportunities in the territorial demarcation of Milpa Alta.
 
+
 Exhibit 1.1.4.1
 
 ![](./media/Exhibit1141.png)
@@ -44,19 +45,23 @@ Exhibit 1.1.4.1
   * Medium investment: Vicente Guerrero Super Manzana 6 (U Hab), Pedregal De Santa Ursula Iii, San Andres (Pblo), San Juan De Aragon 2a Seccion (U Hab) Ii, Narciso Mendoza-Villa Coapa Super Manzana 7 (U Hab), Jose Maria Pino Suarez.
   * High investment: Ma Esther Zuno De Echeverria-Tlalpuente, Progreso Tlalpan, La Primavera
 
+
 Exhibit 1.1.4.2
+
 ![](./media/Exhibit1142.png)
 
 #### **Find one-bedroom properties that allow 3 guests**
 * The number of guests that maximizes the purchase price paid is 3
 
 Exhibit 1.1.4.3
+
 ![](./media/Exhibit1143.png)
 
 #### **Search for properties that, being in one of the identified neighborhoods, are not necessarily close to points of interest**
 
 * Predictably they will have a lower purchase price
 * It seems that proximity to points of interest does not have a special impact on the rental price
+
 
 Exhibit 1.1.4.4
 
@@ -69,6 +74,7 @@ Exhibit 1.1.4.4
   * Low investment: 2a Ampliacion Santiago Acahualtepec Ii 1, Ermita Zaragoza (U Hab) I, Leyes De Reforma 1a Seccion, Lomas Estrella 2a Secc Ii, Paraje Zacatepec.
   * Medium investment: Ex Ejidos De La Magdalena Mixihuca, Constitucion De La Republica, Granjas Coapa Oriente, Tres Fuentes (U Hab), Puebla.
   * High investment: Piloto (Adolfo Lopez Mateos) (Ampl), Vistas Del Pedregal.
+
 
 Exhibit 1.1.4.5
 
